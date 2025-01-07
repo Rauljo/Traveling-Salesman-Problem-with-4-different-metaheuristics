@@ -1,6 +1,6 @@
 # Traveling-Salesman-Problem-with-4-different-metaheuristics
 
-In this repository, 4 different metaheuristics have been implemented to solve the travelling salesman problem. 
+In this repository, 4 different metaheuristics (Simulated Annealing, Tabu Search, Genetic Algorithm, Ant Colony) have been implemented to solve the travelling salesman problem. 
 
 Each of the jupyer notebooks describes the process followed to study the data, implement the solutions and test different configurations until the final results are obtained. 
 
