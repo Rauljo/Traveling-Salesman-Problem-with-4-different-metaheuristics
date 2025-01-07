@@ -4,7 +4,7 @@ In this repository, 4 different metaheuristics (Simulated Annealing, Tabu Search
 
 Each of the jupyer notebooks describes the process followed to study the data, implement the solutions and test different configurations until the final results are obtained. 
 
-At the end of each notebook a reflection on the results obtained is written in ‘REPORT’. 
+At the end of each notebook a reflection on the results obtained is written in __‘INFORME’__. 
 
 In the last notebook: Colonies. A comparison of the results obtained with the four algorithms is made. This conclusion is shown below:
 
